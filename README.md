@@ -16,9 +16,6 @@ Todo 发布到gitbook
 - [] [Also by Pete Goodliffe](README.md)
 - [] [Introduction](README.md)
 - [] [1. Care About the Code](README.md)
-
-Adopting the correct approach and attitude to code
-
 - [] [](README.md)
 - [] [](README.md)
 - [] [](README.md)

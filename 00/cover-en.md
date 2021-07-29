@@ -1,6 +1,4 @@
-# Cover
-
-## Becoming a Better Programmer
+# Becoming a Better Programmer
 
 A HANDBOOK FOR PEOPLE WHO CARE ABOUT CODE
 

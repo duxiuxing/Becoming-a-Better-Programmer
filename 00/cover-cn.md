@@ -1,6 +1,4 @@
-# 封面
-
-## 码农当自强
+# 码农当自强
 
 **Becoming a Better Programmer**
 

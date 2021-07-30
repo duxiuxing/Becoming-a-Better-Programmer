@@ -2,7 +2,7 @@
 
 If you're passionate about programming and want to get better at it, you've come to the right source. *Code Craft* author Pete Goodliffe presents a collection of useful techniques and approaches to the art and craft of programming that will help boost your career and your well-being.
 
-Goodliffe presents sound advice that he's learned in 15 years of professional programming. The book's standalone chapters span the range of a software developer's life—dealing with code, learning the trade, and improving performance—with no language or industry bias. Whether you're a seasoned developer, a neophyte professional, or a hobbyist, you'll find valuable tips in five independent categories:
+Goodliffe presents sound advice that he's learned in 15 years of professional programming. The book's standalone chapters span the range of a software developer's life — dealing with code, learning the trade, and improving performance — with no language or industry bias. Whether you're a seasoned developer, a neophyte professional, or a hobbyist, you'll find valuable tips in five independent categories:
 
 - Code-level techniques for crafting lines of code, testing, debugging, and coping with complexity
 
@@ -22,4 +22,4 @@ Goodliffe presents sound advice that he's learned in 15 years of professional pr
 
 This book will fuel your passion for the art and science of programming. Pete understands that great software comes from good people doing their best work.
 
-<p align="right"><b>—Lisa Crispin</b><br/>Author of <i>Agile Testing: A Practical Guide for Testers and Agile Teams</i></p>
+<p align="right"><b>— Lisa Crispin</b><br/>Author of <i>Agile Testing: A Practical Guide for Testers and Agile Teams</i></p>

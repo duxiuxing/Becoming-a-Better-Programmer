@@ -22,4 +22,4 @@ Goodliffe 在专业程式设计领域浸淫已达 15 年之久，足以提供良
 
 本书会引发你对程式设计艺术与科学的热情。Pete 知道：卓越的软体，是优秀的人们尽最大努力所完成的。
 
-<p align="right"><b>—Lisa Crispin</b><br/>《Agile Testing: A Practical Guide for Testers and Agile Teams》作者</p>
+<p align="right"><b>—— Lisa Crispin</b><br/>《Agile Testing: A Practical Guide for Testers and Agile Teams》作者</p>
